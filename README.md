@@ -1,3 +1,9 @@
+# COBWEB User Management system
+## https://dyfi.cobwebproject.eu/user/
+
+### By Andreas Matheus
+
+## COBWEB User Management System is based on UserFrosting 0.2.2
 
 # UserFrosting 0.2.2
 ## http://www.userfrosting.com
