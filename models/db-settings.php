@@ -32,8 +32,8 @@ THE SOFTWARE.
 //Database Information
 $db_host = "localhost"; //Host address (most likely localhost)
 $db_name = "cobweb"; //Name of Database
-$db_user = "php"; //Name of database user
-$db_pass = "secure"; //Password for database user
+$db_user = "db-user"; //Name of database user
+$db_pass = "db-assword"; //Password for database user
 $db_table_prefix = "idp_";
 
 // All SQL queries use PDO now
